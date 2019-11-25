@@ -2,7 +2,7 @@
 
 ### Raining animation with JS, CSS & HTML
 
-Chec out the <a href="https://nickanderson038.github.io/RainAnimiation/" target="_blank">Rain</a> animation!
+Check out the <a href="https://nickanderson038.github.io/RainAnimiation/" target="_blank">Rain</a> animation!
 
 <br>
 <br>
